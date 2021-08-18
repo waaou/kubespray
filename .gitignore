@@ -1,0 +1,10 @@
+*.tfstate*
+*.tfvars
+*.lock.hcl
+*.lock.info
+*.tfstate.backup
+.terraform
+secrets
+crash.log
+certs
+
